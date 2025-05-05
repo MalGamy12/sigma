@@ -31,6 +31,7 @@ detection:
             - '\{4590f811-1d3a-11d0-891f-00aa004b2e24}\'
             - '\{4de225bf-cf59-4cfc-85f7-68b90f185355}\'
             - '\{F56F6FDD-AA9D-4618-A949-C1B91AF43B1A}\'
+            - '\{30D49246-D217-465F-B00B-AC9DDD652EB7}\'
     selection_locations:
         Details|contains:
             # Note: Add more suspicious paths and locations
